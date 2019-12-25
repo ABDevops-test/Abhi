@@ -7,3 +7,4 @@ new change
 remote change
 >>>>>>> master
 new
+new2
