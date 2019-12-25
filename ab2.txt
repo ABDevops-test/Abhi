@@ -2,4 +2,8 @@ hello2
 remote change
 second change to branch
 new change
+<<<<<<< HEAD
+=======
 remote change
+>>>>>>> master
+new
